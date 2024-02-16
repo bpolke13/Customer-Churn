@@ -22,6 +22,8 @@ Our Github Repository contains 2 Jupyter Notebooks: the NN_Notebook contains the
 ## Data Analysis & Recommendations
 
 The first step I took was to start bucketing features into segments that would be more useful for business analytics (age, spend, things like that) After that I started to look a thte distributinos of each feature and the ratio of churned clients to non-churned clients at each feature level. Taking some of the more prominent features like Subscription type, calls to support, and amount spent. These features we can see have certain categories that have extremely high churn rates:
+
+
 ![image](https://github.com/bpolke13/Customer-Churn/assets/151547876/fded10c3-e664-4011-a00b-08cfcbffb665)
 
 ![image](https://github.com/bpolke13/Customer-Churn/assets/151547876/ddd631b4-2dc3-4f1f-870e-5857e5e1714f)
